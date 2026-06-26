@@ -1,5 +1,4 @@
-![🤖 AI-SOAR Banner](https://capsule-render.vercel.app/main?type=waving&color=auto&height=200&section=header&text=AI%20SOC%20Automation&fontSize=40&animation=fadeIn&theme=dark)
-# AI-SOC-Automation
+![🤖 AI-SOAR Banner](https://github.com/NATTOMR/AI-SOC-Automation/blob/main/workflow_diagram.jpg)
 # Autonomous AI Cyber Threat Intelligence (CTI) & SOAR Pipeline
 
 ## 📌 Project Overview
