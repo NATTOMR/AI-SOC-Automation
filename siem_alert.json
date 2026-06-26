@@ -1,0 +1,10 @@
+{
+  "alert_id": "ALERT-2026-0042",
+  "timestamp": "2026-06-26T21:35:00Z",
+  "source_ip": "192.168.1.105",
+  "destination_ip": "185.220.101.5",
+  "destination_port": 443,
+  "protocol": "TCP",
+  "bytes_transferred": 894000,
+  "signature": "Potential Data Exfiltration over TOR Network"
+}
